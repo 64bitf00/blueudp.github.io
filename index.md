@@ -1,8 +1,7 @@
 
-## Home
+## About
 
-Page of [@blueudp](https://twitter.com/blueudp) (Eduardo Pérez-Malumbres Cervera)
-
+Im Eduardo Pèrez-Malumbres Cervera [@blueudp](https://twitter.com/blueudp), 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
